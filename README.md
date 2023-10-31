@@ -73,6 +73,12 @@ Adapun tipe data dalam dataset [Water Quality](https://www.kaggle.com/datasets/m
  20| is_safe    | 7999 non-null   | object |
 dtypes: float64(19), object(2)
 
+## Visualisasi Data
+[IMG 1](https://drive.google.com/file/d/1DMTcaHta1StDC3pk5QaCnCRIGFOEse7C/view?usp=drive_link)
+[IMG 2](https://drive.google.com/file/d/15uxSWBpQbqTvR54vb_vzJWC3AMOIJoJf/view?usp=drive_link)
+[IMG 3](https://drive.google.com/file/d/1nwxZpXmxqH1ERvjh6cgNDtlUKJWFgvLm/view?usp=drive_link)
+[IMG 4](https://drive.google.com/file/d/1oOaaGEhAkMZ4N8PHnqwMFfrcS_j_u1OM/view?usp=drive_link)
+
 ## Data Preparation
 Teknik data preparation yang dilakukan adalah :
 - Menentukan library yang akan digunakan
